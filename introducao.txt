@@ -1,0 +1,1 @@
+No Git eu posso armazenar diferentes versões de um projeto.
